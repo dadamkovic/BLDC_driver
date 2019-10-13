@@ -1,1 +1,1 @@
-BLDC driver designed around STPIN32F0
+BLDC driver designed around STPIN32F0. This branch will contain 'demo' board design files. The demo board will only have one channel and I will use it to see what does and doesnt work for this design. These notes will be addedin a simple .txt file called v1_notes.txt. In case someone else but me ever stumbles here: 'Hello there random stranger!'
