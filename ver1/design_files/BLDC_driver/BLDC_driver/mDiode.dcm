@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C3D08060G
+D 600V, 8A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/141/C3D08060G.pdf
+$ENDCMP
+#
+$CMP C3D10060G
+D 600V, 10A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/143/C3D10060G.pdf
+$ENDCMP
+#
+$CMP V40DL45HM3
+D 600V, 6A, SiC Schottky Diode, TO-263
+K sic diode
+F https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,50 @@
+EESchema Schematic File Version 4
+LIBS:BLDC_driver_v1-cache
+EELAYER 29 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 12100 6250 3600 2800
+U 5D60745A
+F0 "BLDC_A_ctrl" 50
+F1 "BLDC_A_ctrl.sch" 50
+$EndSheet
+$Sheet
+S 12100 2700 3600 2800
+U 5D66C8AB
+F0 "BLDC_B_ctrl" 50
+F1 "BLDC_B_ctrl.sch" 50
+$EndSheet
+$Comp
+L SamacSys_Parts:STM32F407VET6 IC?
+U 1 1 5D677EAA
+P 3700 3600
+F 0 "IC?" H 6744 2446 50  0000 L CNN
+F 1 "STM32F407VET6" H 6744 2355 50  0000 L CNN
+F 2 "QFP50P1600X1600X160-100N" H 6550 4100 50  0001 L CNN
+F 3 "http://www.st.com/web/en/resource/technical/document/datasheet/DM00037051.pdf" H 6550 4000 50  0001 L CNN
+F 4 "MCU 32-Bit, ARM Cortex M4, 512KB Flash STMicroelectronics STM32F407VET6, 32bit ARM Cortex M4F Microcontroller, 168MHz, 1024 kB Flash, 100-Pin LQFP" H 6550 3900 50  0001 L CNN "Description"
+F 5 "1.6" H 6550 3800 50  0001 L CNN "Height"
+F 6 "STMicroelectronics" H 6550 3700 50  0001 L CNN "Manufacturer_Name"
+F 7 "STM32F407VET6" H 6550 3600 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "511-STM32F407VET6" H 6550 3500 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32F407VET6" H 6550 3400 50  0001 L CNN "Mouser Price/Stock"
+F 10 "7468223P" H 6550 3300 50  0001 L CNN "RS Part Number"
+F 11 "http://uk.rs-online.com/web/p/products/7468223P" H 6550 3200 50  0001 L CNN "RS Price/Stock"
+F 12 "70391106" H 6550 3100 50  0001 L CNN "Allied_Number"
+F 13 "http://www.alliedelec.com/stmicroelectronics-stm32f407vet6/70391106/" H 6550 3000 50  0001 L CNN "Allied Price/Stock"
+	1    3700 3600
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Variant of TMC4671-EVAL_V1_0] of PCB Document [TMC4671-EVAL_V1_1.PcbDoc]
+   Generated File[TMC4671-EVAL_V1.1.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:11:46 On 4.05.2018
